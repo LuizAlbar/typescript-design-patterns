@@ -19,6 +19,9 @@
 			"complexity": {
 				"noStaticOnlyClass": "off",
 				"useArrowFunction": "off"
+			},
+			"suspicious": {
+				"useIterableCallbackReturn": "off"
 			}
 		}
 	},
