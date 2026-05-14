@@ -21,7 +21,11 @@
 				"useArrowFunction": "off"
 			},
 			"suspicious": {
-				"useIterableCallbackReturn": "off"
+				"useIterableCallbackReturn": "off",
+				"noRedeclare": "off"
+			},
+			"correctness": {
+				"noUnusedVariables": "off"
 			}
 		}
 	},
