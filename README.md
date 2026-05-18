@@ -13,3 +13,7 @@
 ### Prototype
 
 #### Intent: Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
+
+### Factory Method
+
+#### Intent: Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
