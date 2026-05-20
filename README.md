@@ -21,3 +21,9 @@
 ### Abstract Factory 
 
 #### Intent: Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
+
+## Structural 
+
+### Composite
+
+#### Intent: Composite is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.
