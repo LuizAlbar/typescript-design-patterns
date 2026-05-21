@@ -27,3 +27,7 @@
 ### Composite
 
 #### Intent: Composite is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.
+
+### Adapter
+
+#### Intent: Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
