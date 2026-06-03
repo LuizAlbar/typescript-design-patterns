@@ -61,3 +61,7 @@
 ### Command
 
 #### Intent: Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations.
+
+### Memento
+
+#### Intent: Memento is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.
