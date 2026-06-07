@@ -65,3 +65,7 @@
 ### Memento
 
 #### Intent: Memento is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.
+
+### State
+
+#### Intent: State is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class.
